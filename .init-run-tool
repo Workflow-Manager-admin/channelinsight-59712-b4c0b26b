@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/channelinsight-59712-b4c0b26b/channel_insight_frontend"
+}
